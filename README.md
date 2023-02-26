@@ -22,6 +22,7 @@
 - 🌱 I’m currently learning 
 - 💞 I’m looking to collaborate on any industry indeed of learning
 - 📫 How to reach me ...Linkedin
+-  I’m interested in coding 🌱 I’m currently studying b.tech 💞️ Student of artificial intelligence and data
 
 
 <br><br>
